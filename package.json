@@ -1,0 +1,18 @@
+{
+  "name": "meteor-util-inherits",
+  "version": "1.0.0",
+  "description": "",
+  "main": "meteor-util-inherits.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^1.10.3",
+    "sinon": "^1.17.3"
+  },
+  "dependencies": {
+    "multiparty": "^4.1.2"
+  }
+}
